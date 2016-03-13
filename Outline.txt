@@ -1,0 +1,13 @@
+Outline
+--------
+
+1. GIT and release with repositories
+2. HTML
+3. Workflow and styling
+4. Bootstrap
+5. Javascript as angular - using templates
+6. JSON data to simulate web service
+7. SCRUM Master
+7. Data visualisation ways
+
+

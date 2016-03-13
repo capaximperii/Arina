@@ -5,7 +5,7 @@ Outline
 2. HTML
 3. Workflow and styling
 4. Bootstrap
-5. Javascript as angular - using templates
+5. Javascript as angular - using debugger
 6. JSON data to simulate web service
 7. SCRUM Master
 7. Data visualisation ways

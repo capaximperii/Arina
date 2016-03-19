@@ -8,6 +8,14 @@ Outline
 5. Javascript as angular  (title is wrong for git)
 6. JSON data to simulate web service - using debugger (scope is body, click is any element, debug for real)
 7. SCRUM Master
-7. Data visualisation ways
+8. Data visualisation ways
+...
 
+10. The state machine: A simple sample on
+
+	- How to organize your code in angular Javascript?
+	- How to include an external CSS resource on top of bootstrap for attractive UI
+	- State machine is using 1 index.html with all javascript include files, and replacing the html view as user clicks on different menu items, this can also be done in response to other events like using $state.go in MainController.
+
+	
 
